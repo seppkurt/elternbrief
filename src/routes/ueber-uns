@@ -1,0 +1,6 @@
+<svelte:head>
+	<title>Über uns - Elternbrief</title>
+</svelte:head>
+
+<h1 class="text-4xl text-center my-8">Wer steckt dahinter</h1>
+<p>...</p>
