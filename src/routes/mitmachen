@@ -1,0 +1,6 @@
+<svelte:head>
+	<title>Mitmachen - Elternbrief Generator</title>
+</svelte:head>
+
+<h1 class="text-4xl text-center my-8">Wie kannst du helfen</h1>
+<p>...</p>
